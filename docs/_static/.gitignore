@@ -1,0 +1,11 @@
+# Ignore everything in this directory
+*
+# Except this file
+!.gitignore
+!guido.png
+!logo.svg
+!style.css
+!carbonad.css
+!favicon.ico
+!appendix/
+!appendix/nccl/
